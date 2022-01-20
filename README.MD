@@ -35,8 +35,3 @@
 <img class="barcode" src="http://bwipjs-api.metafloor.com/?bcid=code128&text=<?php echo $nums ?>">
 
 ```
-
-
-
-## Live version here : https://arni.fr/barcode/
-
